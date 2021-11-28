@@ -1,0 +1,79 @@
+body {
+  font-family: Ubuntu;
+}
+
+
+.bg-image {
+    background-image: url("../background.jpg");
+    height: 50vh;
+    background-size:cover;
+    background-position: center;
+
+}
+
+.masthead {
+  height: 50vh;
+  min-height: 500px;
+  background-image: url('../background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  
+}
+
+#aboutus {
+  padding: 50px;
+  background-color: #efefef;
+}
+
+.catcher {
+  font-family: Ubuntu;
+  font-weight: 900;
+  font-size: 5vw;
+  
+  color:white;
+ 
+}
+
+.secondarytext {
+  color: white;
+  margin-bottom: 30px;
+
+}
+#borderdiv{
+  border-bottom: solid 1px #3d3d3d;
+  margin-bottom: 40px;
+}
+
+.introicons {
+  height: 100px;
+  margin-bottom: 20px;
+  
+}
+
+.thingstodo {
+  padding: 40px;
+
+}
+
+.masthead2 {
+  height: 30vh;
+  min-height: 500px;
+  background-image: url('/Pictures/saturation.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  
+}
+
+#firstone {
+  font-size: 75px;
+}
+
+
+#joinus {
+  background-image: url('/Pictures/reporters.png');
+  height: 30vh;
+}
