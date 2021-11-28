@@ -4,7 +4,7 @@ body {
 
 
 .bg-image {
-    background-image: url("../background.jpg");
+    background-image: url("background.jpg");
     height: 50vh;
     background-size:cover;
     background-position: center;
@@ -14,7 +14,7 @@ body {
 .masthead {
   height: 50vh;
   min-height: 500px;
-  background-image: url('../background.png');
+  background-image: url('background.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -60,7 +60,7 @@ body {
 .masthead2 {
   height: 30vh;
   min-height: 500px;
-  background-image: url('/Pictures/saturation.png');
+  background-image: url('saturation.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -74,6 +74,6 @@ body {
 
 
 #joinus {
-  background-image: url('/Pictures/reporters.png');
+  background-image: url('reporters.png');
   height: 30vh;
 }
