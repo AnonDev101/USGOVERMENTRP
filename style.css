@@ -14,7 +14,7 @@ body {
 .masthead {
   height: 50vh;
   min-height: 500px;
-  background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgiffiles.alphacoders.com%2F208%2F208840.gif&f=1&nofb=1');
+  background-image: url('background.png');
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
@@ -60,7 +60,7 @@ body {
 .masthead2 {
   height: 30vh;
   min-height: 500px;
-  background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F07586455dea7006cd63e9fafe22d2d6b%2Ftenor.gif%3Fitemid%3D12782000&f=1&nofb=1');
+  background-image: url('saturation.png');
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
@@ -74,7 +74,11 @@ body {
 
 
 #joinus {
+<<<<<<< HEAD
   background-image: url('https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpa1.narvii.com%2F6804%2Fe7191cf3decf4774079de7d0ef8418540f125072_00.gif&f=1&nofb=1');
   background-position: center top;
+=======
+  background-image: url('reporters.png');
+>>>>>>> parent of 4e97035 (FortniteGif)
   height: 30vh;
 }
